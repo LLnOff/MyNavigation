@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:title="Home">
+            <menu>
+                <item
+                    android:id="@+id/Perfil"
+                    android:checked="true"
+                    android:icon="@drawable/ic_baseline_person"
+                    android:title="Perfil" />
+
+                <item
+                    android:id="@+id/Boletin"
+                    android:checked="true"
+                    android:icon="@drawable/ic_baseline_library_books"
+                    android:title="Boletin" />
+                <item
+                    android:id="@+id/Aulas"
+                    android:checked="true"
+                    android:icon="@drawable/ic_baseline_date_range"
+                    android:title="Aulas" />
+
+
+            </menu>
+        </item>
+
+
+    </group>
+    <group>
+        <item android:title="Settings">
+            <menu>
+                <item
+                    android:id="@+id/Configuracao"
+                    android:icon="@drawable/ic_baseline_settings"
+                    android:title="Configuraçâo" />
+                <item
+                    android:id="@+id/Sair"
+                    android:icon="@drawable/ic_baseline_exit_to_app"
+                    android:title="Sair" />
+            </menu>
+        </item>
+    </group>
+
+</menu>
