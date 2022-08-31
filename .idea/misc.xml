@@ -5,6 +5,10 @@
       <map>
         <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/MyNavigation/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
         <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/MyNavigation/app/src/main/res/layout/app_bar_layout.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/MyNavigation/app/src/main/res/layout/fragment__perfil.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/MyNavigation/app/src/main/res/layout/fragment_aulas.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/MyNavigation/app/src/main/res/layout/fragment_boletin.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/MyNavigation/app/src/main/res/layout/fragment_configuracao.xml" value="0.35260416666666666" />
         <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/MyNavigation/app/src/main/res/layout/perfil_nav_view.xml" value="0.358695652173913" />
         <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/MyNavigation/app/src/main/res/menu/menu_bar.xml" value="0.365625" />
       </map>
